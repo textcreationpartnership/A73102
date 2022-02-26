@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sayler new come ouer And in this ship with him those of such fame The like of them, nere vnto England came, Men of such qualitie and parts most rare, Reading this Ditty, will shew you what they are ; to the tune of A sayler new come ouer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73102</idno>
+            <idno type="STC">STC 21551.3</idno>
+            <idno type="STC">ESTC S5335</idno>
+            <idno type="EEBO-CITATION">39960825</idno>
+            <idno type="OCLC">ocm 39960825</idno>
+            <idno type="VID">150430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1951:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sayler new come ouer And in this ship with him those of such fame The like of them, nere vnto England came, Men of such qualitie and parts most rare, Reading this Ditty, will shew you what they are ; to the tune of A sayler new come ouer.</title>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for Henry Gosson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1631]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.)</note>
+                  <note>Contains four cuts.</note>
+                  <note>STC (2nd ed.) 21138.5 printed on verso.</note>
+                  <note>Right half sheet contains: The second part to the same tune.</note>
+                  <note>Imperfect: stained, print show-through from ballad on verso, cropped with loss of text.</note>
+                  <note>Reproduction of original in: Pepys' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150430:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>A Sayler new come ouer:</head>
+            <argument>
+               <l>And in this Ship with him thoſe of ſuch fame</l>
+               <l>The like of them, mere vnto England came,</l>
+               <l>Men of ſuch qualitie and parts moſt rare,</l>
+               <l>Reading this Ditty, will ſhew you what they are.</l>
+            </argument>
+            <opener>To the tune of A Sayler new come over.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>A Saylor new come ouer,</l>
+                  <l>ſtrange Countries doth diſcouer.</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>and where maids may husbands haue,</l>
+                  <l>that will maintaine them fine &amp; braue,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d with them will no portions craue:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>If with him theyle goe ouer,</hi>
+                     </l>
+                     <l>
+                        <hi>Hee ſtayes for them at Dover.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Doctor new come ouer,</l>
+                  <l>which ſtrangely can recouer,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> man or woman ſtrucke with death,</l>
+                  <l>to all mens ſight be reft of breath:</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>re potions of effect he hath,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To cure a mad ſicke louer,</hi>
+                     </l>
+                     <l>
+                        <hi>You may haue him at Dover.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Captaine's lately landed.</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hath in the warres commanded,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith vallour great hath thouſands ſlain,</l>
+                  <l>yet nere receiued hurt or maine,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut ſtoutly gainſt the power of <hi>Spaine,</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>All daunger did withſtand it,</hi>
+                     </l>
+                     <l>
+                        <hi>And hee is newly landed.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>A Pirats lately taken,</l>
+                  <l>that brauely can Duch ſpreaken,</l>
+                  <l>This to be true you need not doubt,</l>
+                  <l>hee hath compaſſed the world about,</l>
+                  <l>And by his valorous courage ſtout</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>The Emperours force did weaken,</hi>
+                     </l>
+                     <l>
+                        <hi>The Emperours force did weaken.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>A Iew is come from <hi>Venice,</hi>
+                  </l>
+                  <l>plaies curiouſly at Tenis,</l>
+                  <l>Has coſtly Iewels rich and rare,</l>
+                  <l>to giue or ſell to Ladies faire,</l>
+                  <l>Will to his Chamber make repaire,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Which he brought in a Pinace,</hi>
+                     </l>
+                     <l>
+                        <hi>When as he came from Venice.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Likewiſe a Turke, and Grecian,</l>
+                  <l>with one of euery nation:</l>
+                  <l>All in a Ship, together be,</l>
+                  <l>come ore to <hi>England</hi> for to ſée</l>
+                  <l>Our gallants in their brauery:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>and note each ſeuerall faſhion,</hi>
+                     </l>
+                     <l>
+                        <hi>thats worne in this our nation.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150430:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 10 -->
+               <head>The ſecond part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Vſurer is come hither,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd a Broaker both together,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>g all vnthrifts to be freind,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r no profits monies lend,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at <hi>Dover</hi> they attend,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>hem theile goe thither</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>ay haue them together</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lawyer learned,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>any a noble earned,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ly will your cauſe defend,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>out a Fée will you befreind,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>g all to a perfect end,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>okes hee is ſo learned,</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>okes hee is ſo learned.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ſe a learn'd Venetion,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>id of all ambition,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> his skill will vndertake,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>rious lockes, and keyes to make,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>tons ſhall not ope or breake,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>are of light condition,</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>ad in great ſuſpition.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ly is come ouer,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ay haue him at <hi>Dover:</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>e all you that haue beene croſt,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> your bad wiues, your put in truſt,</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>at you, your wits haue loſt,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>hele them recover.</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>ayes for you at Dover.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>kewiſe a famous Painter,</l>
+                  <l>a ſtory that can paint to life,</l>
+                  <l>For to conuert the lewdeſt wife,</l>
+                  <l>that euer wrought her huſbands griefe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>You never ſee a quainter</hi>
+                     </l>
+                     <l>
+                        <hi>Then is this famous Painter.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He is skild in Negromancy</l>
+                  <l>to make a young man faincy,</l>
+                  <l>A woman liue ſhee North or South,</l>
+                  <l>that in her head hath nere a tooth,</l>
+                  <l>Decrepid, blind, and lame both,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>yet her that hee ſhall fancy,</hi>
+                     </l>
+                     <l>
+                        <hi>by this his Negromancy.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>If you will not beléeue mee,</l>
+                  <l>or rightly can conceaue mée,</l>
+                  <l>To credit that this ſame is true,</l>
+                  <l>I formerly haue ſung to you,</l>
+                  <l>To ſinging I will bid adue,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And at this time giue over,</hi>
+                     </l>
+                     <l>
+                        <hi>To ſee theſe ſights at Dover.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>Henry Goſſon.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
